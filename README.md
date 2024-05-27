@@ -2,3 +2,5 @@ muduo网络库
 
 在lib中存储了编译好的动态库
 example中存储了对于muduo动态库的使用案例
+
+autobuild.sh脚本文件，通过运行该文件，可以一键编译该动态库
